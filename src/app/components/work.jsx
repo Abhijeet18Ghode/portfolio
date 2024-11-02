@@ -60,7 +60,7 @@ const work = () => {
         {
           projects.map((project)=>{
             return<div key={project.id} className='w-1/4 h-2/5  shadow-2xl rounded-2xl flex flex-col items-start justify-between border-x border-y-2 border-gray-800 phone:w-full'>
-              <img src={project.projectImg} className='w-full h-1/2 object-cover rounded-tl-2xl rounded-tr-2xl    '/>
+              <Image src={project.projectImg} className='w-full h-1/2 object-cover rounded-tl-2xl rounded-tr-2xl    '/>
               <div className='w-full h-full flex flex-col items-start justify-evenly'>
               <h1 className='text-lg p-3'>{project.title}</h1>
               <p className='text-xs p-2'>{project.desc}</p>
