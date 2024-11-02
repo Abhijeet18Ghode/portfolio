@@ -58,11 +58,11 @@ const About = () => {
           Why <span className="text-[#f48d33]">Hire</span> Me?
         </h1>
         <p className="text-start phone:text-center phone:text-sm leading-relaxed">
-          Hello! I’m Abhijeet, a Bachelor of Engineering in Computer Science graduate, passionate about building impactful and user-centric digital experiences. I specialize in Web Development using technologies like Next.js and the MERN Stack, and I also work on Mobile and Desktop Application Development.
+          Hello! I&apos;m Abhijeet, a Bachelor of Engineering in Computer Science graduate, passionate about building impactful and user-centric digital experiences. I specialize in Web Development using technologies like Next.js and the MERN Stack, and I also work on Mobile and Desktop Application Development.
           <br /><br />
-          With experience across multiple platforms, I enjoy taking ideas from concept to completion, creating applications that are both functional and visually engaging. Whether it's developing scalable web applications, intuitive mobile apps, or efficient desktop software, I’m always excited to tackle new challenges and refine my skills.
+          With experience across multiple platforms, I enjoy taking ideas from concept to completion, creating applications that are both functional and visually engaging. Whether it&apos;s developing scalable web applications, intuitive mobile apps, or efficient desktop software, I&apos;m always excited to tackle new challenges and refine my skills.
           <br /><br />
-          Explore my projects below, and feel free to reach out if you’re interested in collaborating or just want to connect!
+          Explore my projects below, and feel free to reach out if you&apos;re interested in collaborating or just want to connect!
         </p>
       </div>
     </div>
