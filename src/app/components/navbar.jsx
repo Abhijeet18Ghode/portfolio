@@ -27,7 +27,7 @@ const Navbar = () => {
       </div>
       <div>
       <a
-          href="/resume.pdf"
+          href="/Abhijeet-Ghode-Resume.pdf"
           download="Abhijeet_Ghode_Resume.pdf"
           className="cursor-pointer bg-[#f48d33] pl-3 pr-3 pt-1 pb-1 rounded-md phone:text-xs flex items-center gap-1"
         >
